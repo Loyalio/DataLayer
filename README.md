@@ -81,7 +81,6 @@ curl -X POST http://localhost:2790/v1/data \
 ```bash
 cp .env.example .env
 pnpm install
-pnpm build
 pnpm dev
 ```
 
